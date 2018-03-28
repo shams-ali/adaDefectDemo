@@ -26,7 +26,7 @@ Users of VoiceOver cannot select a different option on the dropdown.
 
 If the dropdown has optgroup where there are other option label, the VoiceOver cannot select any value.
 
-Level Access (Mike):
+Level Access:
 
 This is a known iOS limitation on the picker control used on iPhones (that does not occur on iPads, where a different iOS control is used). Recommend Wells file a defect with Apple (to supplement Level Access doing so) and hope Apple addresses this deficient support for an HTML element that has been around since before Y2K.
 
