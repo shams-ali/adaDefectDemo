@@ -52,18 +52,4 @@ This is a known iOS limitation on the picker control used on iPhones (that does 
 
 ## Configuration:
 
-* Install: node v8+; git; ngrok
-
-```bash
-$ git clone https://github.com/shams-ali/adaDefectDemo.git
-$ cd adaDefectDemo && npm i
-$ npm start
-```
-
-* In another terminal
-
-```bash
-$ ngrok http 3000
-```
-
-* Go to ngrok url shown in your terminal from your iphone device then turn on voiceover
+Go to http://shams-ali.github.io/adaDefectDemo from your iphone device then turn on voiceover
